@@ -1,0 +1,18 @@
+{
+  "name": "@jasonhk/generator-node",
+  "version": "0.0.1",
+  "private": false,
+  "description": "A Yeoman generator for generating a Node.js project.",
+  "keywords": [],
+  "homepage": "https://github.com/JasonHK-Generators/node#readme",
+  "bugs": {
+    "url": "https://github.com/JasonHK-Generators/node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonHK-Generators/node.git"
+  },
+  "license": "MIT",
+  "author": "Jason Kwok <github@jasonhk.email> (https://jasonhk.net/)",
+  "scripts": {}
+}
